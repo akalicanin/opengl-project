@@ -361,3 +361,25 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/OpenGLModelDemo/models/backpack/ao.jpg
+/OpenGLModelDemo/models/backpack/backpack.mtl
+/OpenGLModelDemo/models/backpack/diffuse.jpg
+/OpenGLModelDemo/models/backpack/normal.png
+/OpenGLModelDemo/models/backpack/roughness.jpg
+/OpenGLModelDemo/models/backpack/source_attribution.txt
+/OpenGLModelDemo/models/backpack/specular.jpg
+/OpenGLModelDemo/models/torus/bricktex.jpg
+/OpenGLModelDemo/models/torus/torus.mtl
+/OpenGLModelDemo/models/backpackGL/backpack.glb
+/OpenGLModelDemo/models/backpackGL/voodoo obojen.glb
+/OpenGLModelDemo/models/backpackGL/voodoo.glb
+/OpenGLModelDemo/models/torusGLTF/torusCone.glb
+/OpenGLModelDemo/shaders/kocka.fs
+/OpenGLModelDemo/shaders/kocka.vs
+/OpenGLModelDemo/shaders/triangle.fs
+/OpenGLModelDemo/shaders/triangle.vs
+/OpenGLModelDemo/textures/ace.png
+/OpenGLModelDemo/textures/csbox.png
+/OpenGLModelDemo/BeginningChapterMain.cpp
+/OpenGLModelDemo/DNKIModeliMain.cpp
+/OpenGLModelDemo/DNKmaincppCode.txt
