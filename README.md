@@ -1,6 +1,8 @@
-# OpenGL Model Viewer / Sandbox
+# OpenGL Sandbox / Model viewer
 
 ![proba](https://github.com/user-attachments/assets/553807e0-4712-4377-851f-3b7199c0e2c7)
+
+[Download the demo for Windows](https://github.com/akalicanin/opengl-project/releases)
 
 This is an OpenGL/glfw sandbox. It has movement, camera controls, Phong lighting and model loading capabilities.  
 
